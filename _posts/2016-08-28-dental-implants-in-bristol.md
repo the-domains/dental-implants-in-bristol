@@ -1,13 +1,13 @@
 ---
-description: Dental Implants in Bristol
-dateModified: '2016-08-28T17:26:50.231Z'
-datePublished: '2016-08-28T17:33:07.971Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-28T17:52:59.045Z'
 sourcePath: _posts/2016-08-28-dental-implants-in-bristol.md
+author: []
+via: {}
+dateModified: '2016-08-28T17:52:58.217Z'
+title: ''
+publisher: {}
+description: Dental Implants in Bristol
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -25,8 +25,12 @@ Why are dental implants often the first choice and a standard of care compared t
 * _**Protect healthy bone.**_Leaving empty spaces in your mouth after losing one or more teeth can lead to additional health issues, such as the loss and deterioration of some of your jawbone. When it is not being used to support a natural tooth, the jawbone deteriorates, losing its strength and firmness. Dental implants are the only dental restoration option that preserves and stimulates natural bone, actually helping to stimulate bone growth and prevent bone loss.
 * _**Keep your teeth in your mouth -- not in a cup. **_Dental implants allow you to keep your teeth where they belong -- in your mouth. And no more worrying that your dentures might slip or fall out. Brush, floss and care for teeth that have been replaced using dental implants exactly the way you would natural teeth -- in your mouth.
 * _**Speak easy. **_Adjusting to removable dentures can mean struggling to pronounce everyday words. Not so with dental implants, which function like natural teeth.
-* _**Eat your favorite foods!**_****Taste and enjoy the foods you love without hesitation. You can bite naturally, eat virtually anything you want and, unlike removable dentures that can feel uncomfortable, you can experience the full taste of the food you eat with dental implants, too.
+* _**Eat your favorite foods!**_Taste and enjoy the foods you love without hesitation. You can bite naturally, eat virtually anything you want and, unlike removable dentures that can feel uncomfortable, you can experience the full taste of the food you eat with dental implants, too.
 * _**Look Mum, no cavities!**_Cavities can't occur in an implant-restored crown, or replacement tooth; however, you will need to visit your dentist as scheduled and clean and care for it and your gums and mouth every day, the same as you would if it were a natural tooth.
 * _**Keep teeth in place -- silently.**_Dentures may slip when you eat, talk, smile, laugh, kiss, yawn or cough, so that you have to "reposition" them back into place in the mouth. Dental implants are fixed in place and fuse naturally with your jawbone, meaning your replacement teeth won't move, click or shift.
 * _**Protect your healthy teeth.**_ Placing a tooth-supported bridge requires grinding away the teeth on one or both sides of the missing tooth or teeth -- thereby damaging healthy teeth to restore those that are missing. The modified healthy teeth are attached to, and support, the bridge. Dental implants go in the jawbone, in the spot where your missing tooth root was, without impacting healthy teeth. They also help prevent healthy, adjacent teeth from shifting as they would if an empty space were left for an extended period of time.
 * _**More predictable than other repair and restoration methods.**_ Dental implant treatment has a track record of reliable, long-term successful outcomes and is often considered 'more predictable' than other treatments to repair or replace missing teeth, including bridgework, removable appliances and retreatment of failing root canal (endodontic) therapy.
+
+info@ckdental.co.uk
+
+www.ckdental.co.uk
