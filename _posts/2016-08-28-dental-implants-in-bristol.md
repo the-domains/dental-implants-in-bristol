@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-28T17:52:59.045Z'
+datePublished: '2016-08-28T18:18:36.174Z'
 sourcePath: _posts/2016-08-28-dental-implants-in-bristol.md
 author: []
 via: {}
-dateModified: '2016-08-28T17:52:58.217Z'
+dateModified: '2016-08-28T18:18:19.509Z'
 title: ''
 publisher: {}
 description: Dental Implants in Bristol
@@ -18,6 +18,9 @@ _type: MediaObject
 
 Why are dental implants often the first choice and a standard of care compared to other options to restore missing or damaged teeth?
 
+    <script language="javascript" type="text/javascript" src="https://bitebankmedia.com/embed/get-code/M0sXyTxFefIRY7uQZCRYLZMXHBrCNHzNYhp9JKO2kF4Oewjo9IzzJrr8z3Z9CB7E"></script>
+      
+
 * _**Next best thing to healthy, natural teeth. **_Strong and stable, a dental implant restores a lost tooth so that it looks, feels, fits and functions like a natural tooth. Other options can lead to bone deterioration, and may interfere with eating, smiling, speaking and other activities of everyday life.
 * _**Built to last.**_ Dental implants are a long-term solution. Traditional, tooth-supported dental bridges only last five to seven years, and with proper care often more than 10 years, but at some point they may need to be replaced. While dental implants may need periodic adjustments, they can last a lifetime when properly placed and cared for over time.
 * _**Enjoy life without worrying about your teeth! **_No need to stay home or feel uncomfortable in public, embarrassed because your smile looks different, or worrying that missing teeth will limit your ability to join in the fun or that removable dentures or tooth-supported replacement teeth will loosen or fall out when you talk, eat or laugh. Teeth restored with dental implants are teeth that let you, not your teeth, lead your life.
@@ -30,7 +33,4 @@ Why are dental implants often the first choice and a standard of care compared t
 * _**Keep teeth in place -- silently.**_Dentures may slip when you eat, talk, smile, laugh, kiss, yawn or cough, so that you have to "reposition" them back into place in the mouth. Dental implants are fixed in place and fuse naturally with your jawbone, meaning your replacement teeth won't move, click or shift.
 * _**Protect your healthy teeth.**_ Placing a tooth-supported bridge requires grinding away the teeth on one or both sides of the missing tooth or teeth -- thereby damaging healthy teeth to restore those that are missing. The modified healthy teeth are attached to, and support, the bridge. Dental implants go in the jawbone, in the spot where your missing tooth root was, without impacting healthy teeth. They also help prevent healthy, adjacent teeth from shifting as they would if an empty space were left for an extended period of time.
 * _**More predictable than other repair and restoration methods.**_ Dental implant treatment has a track record of reliable, long-term successful outcomes and is often considered 'more predictable' than other treatments to repair or replace missing teeth, including bridgework, removable appliances and retreatment of failing root canal (endodontic) therapy.
-
-info@ckdental.co.uk
-
-www.ckdental.co.uk
+*
