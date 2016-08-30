@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-28T18:37:03.278Z'
+datePublished: '2016-08-28T20:34:26.920Z'
 sourcePath: _posts/2016-08-28-dental-implants-in-bristol.md
 author: []
 via: {}
-dateModified: '2016-08-28T18:36:53.399Z'
+dateModified: '2016-08-28T20:34:26.357Z'
 title: ''
 publisher: {}
 description: Dental Implants in Bristol
