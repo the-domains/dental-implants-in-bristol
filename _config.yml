@@ -12,5 +12,9 @@ color:
     - '#1D181F'
 layout_spectrum: 0.49150183447636664
 name: Dental Implants in Bristol
+navigation:
+  - name: contact us
+    url: www.ckdental.co.uk
+    type: external
 title: Dental Implants in Bristol
 description: Experts at your doorstep
