@@ -19,5 +19,8 @@ navigation:
   - name: Bristol Clinic
     url: 'http://ckdental.co.uk'
     type: external
+  - name: 'Price Guide '
+    id: 4e2c9f66-78a7-4855-aa66-877fd77369ca
+    type: content
 title: Dental Implants in Bristol
 description: Experts at your doorstep
