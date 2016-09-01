@@ -12,5 +12,9 @@ color:
     - '#1D181F'
 layout_spectrum: 0.49150183447636664
 name: Dental Implants in Bristol
+navigation:
+  - name: Dental implants in Bristol
+    id: 0bc69fd8-7470-498d-af96-e075da861df2
+    type: content
 title: Dental Implants in Bristol
 description: Experts at your doorstep
