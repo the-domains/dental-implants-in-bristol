@@ -1,18 +1,20 @@
 ---
-datePublished: '2016-08-29T21:40:42.504Z'
+datePublished: '2016-08-29T21:43:17.245Z'
 sourcePath: _posts/2016-08-28-dental-implants-in-bristol.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-29T21:40:41.843Z'
+dateModified: '2016-08-29T21:43:16.599Z'
 title: ''
 publisher: {}
 description: Dental Implants in Bristol
-hasPage: true
 starred: false
 url: dental-implants-in-bristol/index.html
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2dd7981d-78ed-406f-a68c-a40a372acefc.jpg)
+
 **Dental Implants in Bristol**
 
 Why are dental implants often the first choice and a standard of care compared to other options to restore missing or damaged teeth?
