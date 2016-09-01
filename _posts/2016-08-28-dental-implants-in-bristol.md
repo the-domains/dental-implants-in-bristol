@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-28T20:34:26.920Z'
+datePublished: '2016-08-29T21:39:25.475Z'
 sourcePath: _posts/2016-08-28-dental-implants-in-bristol.md
 author: []
 via: {}
-dateModified: '2016-08-28T20:34:26.357Z'
+dateModified: '2016-08-29T21:39:24.868Z'
 title: ''
 publisher: {}
 description: Dental Implants in Bristol
@@ -17,9 +17,6 @@ _type: MediaObject
 **Dental Implants in Bristol**
 
 Why are dental implants often the first choice and a standard of care compared to other options to restore missing or damaged teeth?
-
-    <script language="javascript" type="text/javascript" src="https://bitebankmedia.com/embed/get-code/M0sXyTxFefIRY7uQZCRYLZMXHBrCNHzNYhp9JKO2kF4Oewjo9IzzJrr8z3Z9CB7E"></script>
-      
 
 * _**Next best thing to healthy, natural teeth. **_Strong and stable, a dental implant restores a lost tooth so that it looks, feels, fits and functions like a natural tooth. Other options can lead to bone deterioration, and may interfere with eating, smiling, speaking and other activities of everyday life.
 * _**Built to last.**_ Dental implants are a long-term solution. Traditional, tooth-supported dental bridges only last five to seven years, and with proper care often more than 10 years, but at some point they may need to be replaced. While dental implants may need periodic adjustments, they can last a lifetime when properly placed and cared for over time.
