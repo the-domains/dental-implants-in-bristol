@@ -1,17 +1,16 @@
 ---
 description: Initial extensive consultation
-dateModified: '2016-08-08T11:59:52.043Z'
-datePublished: '2016-08-29T22:05:02.921Z'
+dateModified: '2016-08-29T22:05:36.601Z'
+datePublished: '2016-08-29T22:05:37.225Z'
 title: 'Price Guide '
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2016-08-06-price-guide.md
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: price-guide/index.html
+_type: Blurb
 
 ---
 # Price Guide 
