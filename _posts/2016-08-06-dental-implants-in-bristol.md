@@ -1,17 +1,16 @@
 ---
 description: Dental Implants in Bristol
-dateModified: '2016-08-08T11:59:49.289Z'
-datePublished: '2016-08-29T22:04:59.404Z'
+dateModified: '2016-08-29T22:05:59.066Z'
+datePublished: '2016-08-29T22:06:00.665Z'
 title: Dental implants in Bristol
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2016-08-06-dental-implants-in-bristol.md
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: dental-implants-in-bristol/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c7a90a6-1b95-4bb8-8719-7a9e6a9737ad.jpg)
