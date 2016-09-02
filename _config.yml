@@ -1,4 +1,3 @@
-layout_spectrum: 0.49150183447636664
 typography_spectrum: 0.956901378929615
 color:
   brandStrength: 0.9326073764823377
@@ -6,9 +5,25 @@ color:
   saturation: 0.8843370941467583
   rhythmicContrast: 0.36676578130573034
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#FF5335'
+    - '#B39C85'
+    - '#306E73'
+    - '#3B424D'
+    - '#1D181F'
+layout_spectrum: 0.49150183447636664
 name: Dental Implants in Bristol
+navigation:
+  - name: Dental implants in Bristol
+    id: 0bc69fd8-7470-498d-af96-e075da861df2
+    type: content
+  - name: give me more info
+    url: 'http://ckdental.co.uk'
+    type: external
+  - name: 'Price Guide '
+    id: 4e2c9f66-78a7-4855-aa66-877fd77369ca
+    type: content
+  - name: Dental implants in Bristol
+    id: d9d5a9ac-c9a6-4e77-b749-4dca640ac930
+    type: content
+title: Dental Implants in Bristol
+description: Experts at your doorstep
